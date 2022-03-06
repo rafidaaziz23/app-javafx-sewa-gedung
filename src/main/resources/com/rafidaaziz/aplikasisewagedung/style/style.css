@@ -1,0 +1,35 @@
+.login{
+    -fx-background-image:url("../img/bg.jpg");
+    -fx-background-repeat:no-repeat;
+    -fx-background-size:100% 100%;
+    -fx-background-position:center;
+}
+
+.right-login{
+    -fx-min-height:100%;
+}
+
+.btn-sides{
+    -fx-background-color:darkblue;
+    -fx-text-alignment:left;
+}
+
+.btn-sides:hover{
+    -fx-background-color:navy;
+}
+
+.btn-sides:pressed{
+    -fx-background-color:#0000CD;
+}
+
+.btn-create{
+    -fx-background-color:gold;
+}
+
+.btn-create:hover{
+    -fx-background-color:orange;
+}
+
+.btn-create:pressed{
+    -fx-background-color:#DAA520;
+}
